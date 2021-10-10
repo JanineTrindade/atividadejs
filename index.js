@@ -16,6 +16,9 @@ server.listen(port,hostname,() => {
     console.log("servidor rodando");
 })
 
+
+/////////////////////////////////
+
 var valor1=10;
 var valor2= 5;
 var valor3= 15;
